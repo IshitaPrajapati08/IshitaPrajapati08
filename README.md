@@ -1,3 +1,11 @@
+# Hi, I’m Ishita Prajapati 👋
+
+## 📫 Connect with Me
+- [GitHub](https://github.com/IshitaPrajapati08)  
+- [LinkedIn](www.linkedin.com/in/ishita-prajapati-6a857b287)  
+
+---
+
 ![Hacktoberfest 2025 Badge](hacktober-2025.png)
 
 ## Hacktoberfest 2025: From Curious to Contributor 🌱🎉
