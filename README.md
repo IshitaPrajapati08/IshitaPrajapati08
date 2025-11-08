@@ -1,4 +1,4 @@
-![Hacktoberfest 2025 Badge](hacktoberfest-2025.png)
+![Hacktoberfest 2025 Badge](hacktober-2025.png)
 
 ## Hacktoberfest 2025: From Curious to Contributor 🌱🎉
 
