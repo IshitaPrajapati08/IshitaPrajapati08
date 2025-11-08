@@ -1,14 +1,9 @@
-# Hi, I’m Ishita Prajapati 👋
+# Hi, I’m Ishita Prajapati 👋 
 
-## 📫 Connect with Me
-- [GitHub](https://github.com/IshitaPrajapati08)  
-- [LinkedIn](www.linkedin.com/in/ishita-prajapati-6a857b287)  
-
----
+## Hacktoberfest 2025: From Curious to Contributor 🌱🎉
 
 ![Hacktoberfest 2025 Badge](hacktober-2025.png)
 
-## Hacktoberfest 2025: From Curious to Contributor 🌱🎉
 
 I’m excited to share that I participated in **Hacktoberfest 2025** and completed **5 contributions** to open-source repositories on GitHub.  
 This journey helped me collaborate with developers, improve my coding skills, and understand real-world open-source workflows.  
@@ -16,3 +11,10 @@ This journey helped me collaborate with developers, improve my coding skills, an
 A big thanks to **DigitalOcean**, **GitHub**, and the open-source community for organizing this amazing initiative! 🙌
 
 #Hacktoberfest #Hacktoberfest2025 #OpenSource #GitHub #DeveloperCommunity #CodingJourney #TechCommunity #LearningByDoing #ComputerEngineering
+
+
+## 📫 Connect with Me
+- [GitHub](https://github.com/IshitaPrajapati08)  
+- [LinkedIn](https://www.linkedin.com/in/ishita-prajapati-6a857b287/)  
+
+---
