@@ -2,7 +2,7 @@
 
 ## Hacktoberfest 2025: From Curious to Contributor 🌱🎉
 
-![Hacktoberfest 2025 Badge](hacktober-2025.png)
+![Hacktoberfest 2025 Badge](hacktober.png)
 
 
 I’m excited to share that I participated in **Hacktoberfest 2025** and completed **5 contributions** to open-source repositories on GitHub.  
@@ -13,7 +13,7 @@ A big thanks to **DigitalOcean**, **GitHub**, and the open-source community for 
 #Hacktoberfest #Hacktoberfest2025 #OpenSource #GitHub #DeveloperCommunity #CodingJourney #TechCommunity #LearningByDoing #ComputerEngineering
 
 
-## 📫 Connect with Me
+## Connect with Me
 - [GitHub](https://github.com/IshitaPrajapati08)  
 - [LinkedIn](https://www.linkedin.com/in/ishita-prajapati-6a857b287/)  
 
