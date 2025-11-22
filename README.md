@@ -15,6 +15,5 @@ A big thanks to **DigitalOcean**, **GitHub**, and the open-source community for 
 
 ## Connect with Me
 - [GitHub](https://github.com/IshitaPrajapati08)  
-- [LinkedIn](https://www.linkedin.com/in/ishita-prajapati-6a857b287/)  
 
 ---
