@@ -13,14 +13,20 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate Calm Aesthetic Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: IshitaPrajapati08
           outputs: dist/snake.svg
 
-      - name: Push animation
+          # 🌿 Calm Aesthetic Theme
+          color_snake: "#7bdff2"       # Soft calm blue
+          color_dot: "#d0f4ff"         # Gentle slow-blue pastel
+          color_vacant: "#ecfcff"      # Very light, clean background grid
+          color_bg: "#f7fbff"          # Soft cloudy-white background (calm & professional)
+
+      - name: Push animation to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generated snake animation"
+          message: "Generated calm aesthetic snake animation"
           add: "dist/snake.svg"
