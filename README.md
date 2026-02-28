@@ -1,4 +1,4 @@
-# Hi, I’m Ishita Prajapati 👋 
+#  Bonjour, je suis Ishita Prajapati👋 
 
 ## Hacktoberfest 2025: From Curious to Contributor 🌱🎉
 
